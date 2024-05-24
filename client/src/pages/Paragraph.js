@@ -122,7 +122,7 @@ const Paragraph = () => {
               lineHeight: "450px",
             }}
           >
-            Your Paragraph Will Apprea Here
+            Your Paragraph Will Appear Here
           </Typography>
         </Card>
       )}
